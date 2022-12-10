@@ -43,7 +43,7 @@ public class Staff_login extends AppCompatActivity {
                 String enterId = enter_stuid.getText().toString();
                 String enterPassword = pass.getText().toString();
 
-                String url = "https://script.google.com/macros/s/AKfycbw_hMQINtLdkqflg4q24-HJCGIy0KrpW2JmyEfNedkYK9EXV52GA0LSRU8L29f5uyGV/exec";
+                String url = "-- url for apps script --";
                 JsonObjectRequest request = new JsonObjectRequest(Request.Method.GET, url, null, new Response.Listener<JSONObject>() {
                     @Override
                     public void onResponse(JSONObject response) {
