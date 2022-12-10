@@ -36,7 +36,7 @@ public class Student_login extends AppCompatActivity {
 
         requestQueue2 = Volley.newRequestQueue(Student_login.this);
         requestQueue2.getCache().clear();
-        String url = "https://script.google.com/macros/s/AKfycbx7LSRWAZeuH658rLs4x95_qfI6cl3mlJ0Sob39IqAk8r3iYf1KiTgYhO50SOsBoX28/exec";
+        String url = "-- url for apps script --";
         JsonObjectRequest request = new JsonObjectRequest(Request.Method.GET, url, null, new Response.Listener<JSONObject>() {
             @Override
             public void onResponse(JSONObject response) {
