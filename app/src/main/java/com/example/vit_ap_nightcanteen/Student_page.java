@@ -362,7 +362,7 @@ public class Student_page extends AppCompatActivity {
     }
 
     public void updateItem(String item, String quantity, String price) {
-        String url = "https://script.google.com/macros/s/AKfycbxDWoscB99CFkDMU0IJTDx7kIde8Yu0uqa1NGN0XvSNxCeQRd-ZBTh1RQ-SeUTEojah/exec";
+        String url = "-- url for apps script --";
         StringRequest stringRequest = new StringRequest(Request.Method.POST, url,
                 new Response.Listener<String>() {
                     @Override
