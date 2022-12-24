@@ -14,19 +14,22 @@ Any UPI app that has been downloaded and installed on a mobile device can be use
 <ul>
   <li>Backend for the Project</li>
   <li>Implementing the Database Related work through Api and App-Scripts</li>
+</ul>
 
 **Mayank Malhotra**
-
-  #^  Creating the Login Activity for Student and Staff
-  #^  Joining all the Activities through the Intent
-  #^  Implementing the payment Interface
+<ul>
+  <li>Creating the Login Activity for Student and Staff</li>
+  <li>Joining all the Activities through the Intent</li>
+  <li>Implementing the payment Interface</li>
+</ul>
 
 **R Soundarya**
-
-  #^  Creating the UI for the App
-  #^  Creating Front and Backend for the Student Page for adding Products and calculating the total
-
+<ul>
+  <li>Creating the UI for the App</li>
+  <li>Creating Front and Backend for the Student Page for adding Products and calculating the total</li>
+</ul>
 **Nikhil S Thomas**
-
-  #^  Creating the UI for the App
-  #^  Creating Front and Backend for the Staff Page for Updating Menu and Quantity and Price
+<ul>
+  <li>Creating the UI for the App</li>
+  <li>Creating Front and Backend for the Staff Page for Updating Menu and Quantity and Price</li>
+</ul>
