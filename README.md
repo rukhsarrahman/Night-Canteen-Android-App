@@ -11,9 +11,9 @@ In Google Sheets, each menu item's price and quantity are recorded, and the Staf
 Any UPI app that has been downloaded and installed on a mobile device can be used to make a payment. After submitting , a pop-up window appears asking you to choose the UPI account you want to make the payment from.
 
 **Rukhsar Rahman**
-
-  #^  Backend for the Project
-  #^  Implementing the Database Related work through Api and App-Scripts
+<ul>
+  <li>Backend for the Project</li>
+  <li>Implementing the Database Related work through Api and App-Scripts</li>
 
 **Mayank Malhotra**
 
