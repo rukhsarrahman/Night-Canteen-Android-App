@@ -23,7 +23,7 @@ Any UPI app that has been downloaded and installed on a mobile device can be use
   <li>Implementing the payment Interface</li>
 </ul>
 
-**R Soundarya**
+**R. Soundarya**
 <ul>
   <li>Creating the UI for the App</li>
   <li>Creating Front and Backend for the Student Page for adding Products and calculating the total</li>
